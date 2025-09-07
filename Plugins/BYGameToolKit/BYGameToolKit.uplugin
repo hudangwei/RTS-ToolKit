@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BYGameToolKit",
+	"Description": "Real-Time Strategy Toolkit is a component based highly customizable framework",
+	"Category": "Other",
+	"CreatedBy": "hoopa",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BYGameToolKit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
